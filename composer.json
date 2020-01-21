@@ -1,0 +1,22 @@
+{
+    "name": "imageineonline/module-nowelcomeemail",
+    "description": "",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "email": "hello@imageineonline.co.uk",
+            "name": "Imageine Online"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Imageineonline\\NoWelcomeEmail\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
