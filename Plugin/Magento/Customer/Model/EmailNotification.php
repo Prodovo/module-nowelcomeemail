@@ -1,22 +1,22 @@
 <?php
 /**
  * No Welcome Email
- * Copyright (C) 2020 Imageine Online
+ * Copyright (C) 2020 Prodovo
  * 
- * This file included in Imageineonline/NoWelcomeEmail is licensed under OSL 3.0
+ * This file included in Prodovo/NoWelcomeEmail is licensed under OSL 3.0
  * 
  * http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  * Please see LICENSE.txt for the full text of the OSL 3.0 license
  */
 
-namespace Imageineonline\NoWelcomeEmail\Plugin\Magento\Customer\Model;
+namespace Prodovo\NoWelcomeEmail\Plugin\Magento\Customer\Model;
 
 use Magento\Framework\App\Config\ScopeConfigInterface;
 use Magento\Store\Model\ScopeInterface;
 
 /**
  * Class EmailNotification
- * @package Imageineonline\NoWelcomeEmail\Plugin\Magento\Customer\Model
+ * @package Prodovo\NoWelcomeEmail\Plugin\Magento\Customer\Model
  */
 class EmailNotification
 {

@@ -1,19 +1,19 @@
 {
-    "name": "imageineonline/module-nowelcomeemail",
+    "name": "prodovo/module-nowelcomeemail",
     "description": "",
     "type": "magento2-module",
     "license": "OSL-3.0",
     "authors": [
         {
-            "email": "hello@imageineonline.co.uk",
-            "name": "Imageine Online"
+            "email": "hello@prodovo.co.uk",
+            "name": "Prodovo"
         }
     ],
     "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
-            "Imageineonline\\NoWelcomeEmail\\": ""
+            "Prodovo\\NoWelcomeEmail\\": ""
         },
         "files": [
             "registration.php"

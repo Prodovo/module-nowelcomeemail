@@ -12,8 +12,8 @@ This module as simple as it is will allow you to disable emails on new customer 
 
 ### Type 1: Zip file
 
- - Unzip the zip file in `app/code/Imageineonline/NoWelcomeEmail`
- - Enable the module by running `php bin/magento module:enable Imageineonline_NoWelcomeEmail`
+ - Unzip the zip file in `app/code/Prodovo/NoWelcomeEmail`
+ - Enable the module by running `php bin/magento module:enable Prodovo_NoWelcomeEmail`
  - Apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
 
@@ -25,7 +25,7 @@ This module as simple as it is will allow you to disable emails on new customer 
     - public github repository as vcs
  - Add the composer repository to the configuration by running `composer config repositories.repo.magento.com composer https://repo.magento.com/`
  - Install the module composer by running `composer require imageineonline/module-nowelcomeemail`
- - enable the module by running `php bin/magento module:enable Imageineonline_NoWelcomeEmail`
+ - enable the module by running `php bin/magento module:enable Prodovo_NoWelcomeEmail`
  - apply database updates by running `php bin/magento setup:upgrade`\*
  - Flush the cache by running `php bin/magento cache:flush`
 

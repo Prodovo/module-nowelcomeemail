@@ -6,7 +6,7 @@
 				<resource id="Magento_Backend::stores">
 					<resource id="Magento_Backend::stores_settings">
 						<resource id="Magento_Config::config">
-							<resource id="Imageineonline_NoWelcomeEmail::config_imageineonline_nowelcomeemail" title="customer"/>
+							<resource id="Prodovo_NoWelcomeEmail::config_imageineonline_nowelcomeemail" title="customer"/>
 						</resource>
 					</resource>
 				</resource>
