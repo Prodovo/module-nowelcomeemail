@@ -1,11 +1,11 @@
 {
     "name": "prodovo/module-nowelcomeemail",
-    "description": "",
+    "description": "No Welcome Emails|Disable the standard registration email on customer creation",
     "type": "magento2-module",
     "license": "OSL-3.0",
     "authors": [
         {
-            "email": "hello@prodovo.co.uk",
+            "email": "support@prodovo.co.uk",
             "name": "Prodovo"
         }
     ],
